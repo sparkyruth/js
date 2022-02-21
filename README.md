@@ -1,2 +1,2 @@
 # js
-test stuff on js
+Javascript knowledge build-up
